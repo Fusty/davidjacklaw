@@ -1,0 +1,1436 @@
+Uri: https://cdn.website.thryv.com/-resellers-preview/_widget_builder_files/cash.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\-resellers-preview\_widget_builder_files\cash.png
+Content Type: image/png
+
+Uri: https://cdn.website.thryv.com/-resellers-preview/_widget_builder_files/discover.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\-resellers-preview\_widget_builder_files\discover.png
+Content Type: image/png
+
+Uri: https://cdn.website.thryv.com/-resellers-preview/_widget_builder_files/mastercard.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\-resellers-preview\_widget_builder_files\mastercard.png
+Content Type: image/png
+
+Uri: https://cdn.website.thryv.com/-resellers-preview/_widget_builder_files/visa.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\-resellers-preview\_widget_builder_files\visa.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b1.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\107a32db89f1285b1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b4.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\107a32db89f1285b4.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1291d1e7f9fa7394.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\1291d1e7f9fa7394.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1291d1e7f9fa73947.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\1291d1e7f9fa73947.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1a31561daae4e6f5.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\1a31561daae4e6f5.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1a31561daae4e6f6.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\1a31561daae4e6f6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/28f652d19e80fbde1.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\28f652d19e80fbde1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/28f652d19e80fbde11.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\28f652d19e80fbde11.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/31691cf572f5bde34.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\31691cf572f5bde34.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/31691cf572f5bde8.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\31691cf572f5bde8.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/325a0ea84e3a99.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\325a0ea84e3a99.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/325a0ea84e3a993.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\325a0ea84e3a993.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3943a091ad116f3a1.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\3943a091ad116f3a1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3943a091ad116f3a3.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\3943a091ad116f3a3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3b8723a173ab23db6.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\3b8723a173ab23db6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3b8723a173ab23db9.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\3b8723a173ab23db9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/47b9a7080319bd8b.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\47b9a7080319bd8b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/47b9a7080319bd8b9.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\47b9a7080319bd8b9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/48066a2ff839778c.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\48066a2ff839778c.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/48066a2ff839778c2.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\48066a2ff839778c2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e2.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\5128cd07406988e2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e3.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\5128cd07406988e3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/53198ebebffbde21.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\53198ebebffbde21.woff
+Content Type: font/woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/53198ebebffbde25.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\53198ebebffbde25.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/6d3318b718754b78.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\6d3318b718754b78.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/6d3318b718754b781.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\6d3318b718754b781.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9d22fae1754942f6.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\9d22fae1754942f6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9d22fae1754942f63.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\9d22fae1754942f63.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9f2d68f1d69270015.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\9f2d68f1d69270015.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9f2d68f1d69270018.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\9f2d68f1d69270018.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a38f38c55b7a57a.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a38f38c55b7a57a.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a4ba60ff9fc73cf85.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a4ba60ff9fc73cf85.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a4ba60ff9fc73cf87.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a4ba60ff9fc73cf87.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a7bbb29f8e80de7b.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a7bbb29f8e80de7b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a7bbb29f8e80de7b4.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a7bbb29f8e80de7b4.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a81a5e6e6b2de22.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a81a5e6e6b2de22.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a81a5e6e6b2de224.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\a81a5e6e6b2de224.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bac7cf2e21ae24d1.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\bac7cf2e21ae24d1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bc3ca414adf5d1d.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\bc3ca414adf5d1d.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bc3ca414adf5d1d1.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\bc3ca414adf5d1d1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/cd26fb9258467dc1b.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\cd26fb9258467dc1b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/cd26fb9258467dcb2.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\cd26fb9258467dcb2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/d843412155f4ee4b.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\d843412155f4ee4b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/d843412155f4ee4b3.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\d843412155f4ee4b3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e2fc0b95199b08bc.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\e2fc0b95199b08bc.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e5fc7a757e7988.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\e5fc7a757e7988.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e5fc7a757e79881.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\e5fc7a757e79881.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/ec49acf58c10f8a9.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\ec49acf58c10f8a9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f5c444da86865f17.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\f5c444da86865f17.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f5c444da86865f171.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\f5c444da86865f171.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f889a07745b51249.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\f889a07745b51249.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f889a07745b512491.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\additionalfonts\f889a07745b512491.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Alef-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Alef-Bold.woff2
+Content Type: binary/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Alef-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Alef-Regular.woff2
+Content Type: binary/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Museo_Slab_500.otf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Museo_Slab_500.otf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.eot
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/arrowBlackRight.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\arrowBlackRight.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/galleryLoader.gif
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\galleryLoader.gif
+Content Type: image/gif
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder1.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\imgPlaceholder1.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder2.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\imgPlaceholder2.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder3.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\imgPlaceholder3.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/restaurantMenu/menu-image1.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\restaurantMenu\menu-image1.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/yelpLogo.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\runtime-img\yelpLogo.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/aidsBg.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\aidsBg.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/click2Call.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\click2Call.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/halloween_call.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\halloween_call.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/cyberMondayBg.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\holiday\cyberMondayBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/holidaySnow.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\holiday\holidaySnow.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/smbSaturdayBg.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\holiday\smbSaturdayBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/thanksgivingBg.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\holiday\thanksgivingBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/sectionImg5.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\sectionImg5.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/Trick-or-Treat.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\themes\sections\Trick-or-Treat.jpg
+Content Type: image/jpeg
+
+Uri: https://dp-cdn.multiscreensite.com/bfsImages/sunset-hair.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\bfsImages\sunset-hair.jpg
+Content Type: image/jpeg
+
+Uri: https://dp-cdn.multiscreensite.com/gallery/bg_37.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\gallery\bg_37.png
+Content Type: image/png
+
+Uri: https://dp-cdn.multiscreensite.com/gallery/pink_pattern.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\gallery\pink_pattern.png
+Content Type: image/png
+
+Uri: https://irp-cdn.multiscreensite.com/397c96d6/site_favicon_16_1598540324148.ico
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\site_favicon_16_1598540324148.ico
+Content Type: image/x-icon
+
+Uri: https://irp.cdn-website.com/397c96d6/files/397c96d6_1.min.css?v=7
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\files\397c96d6_1.min.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/397c96d6/files/397c96d6_home_1.min.css?v=7
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\files\397c96d6_home_1.min.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/fonts/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Cabin:ital,wght@0,400..700;1,400..700&family=Lora:ital,wght@0,400..700;1,400..700&family=Pacifico:ital,wght@0,400&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&subset=latin-ext&display=swap
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\css2
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OngHXi-Ag.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OngHXi-Ag.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnhHXi-Ag.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnhHXi-Ag.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4g0qWljRw-Pd815fNqc8T_wAFcX-c37OnuHXg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvp9nsBXw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvp9nsBXw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4i0qWljRw-PfU81xCKCpdpbgZJl6XvptnsBXw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4i0qWljRw-PfU81xCKCpdpbgZJl6XvptnsBXw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/cabin/v27/u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\cabin\v27\u-4i0qWljRw-PfU81xCKCpdpbgZJl6Xvqdns.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v17/S6u8w4BMUTPHjxsAXC-q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v17\S6u8w4BMUTPHjxsAXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v17/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v17\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v17/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v17\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCI.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u8w4BMUTPHh30AUi-qJCY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u8w4BMUTPHh30AUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u8w4BMUTPHh30AXC-q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u8w4BMUTPHh30AXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u8w4BMUTPHjxsAUi-qJCY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u8w4BMUTPHjxsAUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u8w4BMUTPHjxsAXC-q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u8w4BMUTPHjxsAXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh50XSwaPGR_p.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh50XSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh50XSwiPGQ.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh50XSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh7USSwaPGR_p.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh7USSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u9w4BMUTPHh7USSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6uyw4BMUTPHjxAwXjeu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6uyw4BMUTPHjxAwXjeu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v17/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkq0.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v17\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkq0.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v17/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkq0.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v17\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkq0.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIhMX1D_JOuMw_LIftL.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIhMX1D_JOuMw_LIftL.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIhMX1D_JOuMw_LJftLp_A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIhMX1D_JOuMw_LJftLp_A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIhMX1D_JOuMw_LLPtLp_A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIhMX1D_JOuMw_LLPtLp_A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIhMX1D_JOuMw_LLvtLp_A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIhMX1D_JOuMw_LLvtLp_A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIhMX1D_JOuMw_LL_tLp_A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIhMX1D_JOuMw_LL_tLp_A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIvMX1D_JOuMw77I-NP.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIvMX1D_JOuMw77I-NP.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIvMX1D_JOuMwf7I-NP.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIvMX1D_JOuMwf7I-NP.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIvMX1D_JOuMwr7Iw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIvMX1D_JOuMwr7Iw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIvMX1D_JOuMwT7I-NP.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIvMX1D_JOuMwT7I-NP.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lora/v32/0QIvMX1D_JOuMwX7I-NP.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\lora\v32\0QIvMX1D_JOuMwX7I-NP.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/montserrat/v26/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\montserrat\v26\JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v18\mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v18\mem8YaGs126MiZpBA-UFVZ0b.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWt06F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtk6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtU6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWu06F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuk6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6F.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWvU6F15M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/opensans/v36/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\opensans\v36\memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6D6MmTpA.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6D6MmTpA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6H6Mk.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6H6Mk.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6I6MmTpA.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6I6MmTpA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6J6MmTpA.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6J6MmTpA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/pacifico/v22/FwZY7-Qmy14u9lezJ-6K6MmTpA.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\pacifico\v22\FwZY7-Qmy14u9lezJ-6K6MmTpA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v14\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydg18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydh18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydj18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydo18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18Q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydv18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmBduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmhduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmxduz8A.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3905/125a2f0827e8f9e11207193a5a34f6b0.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3905\125a2f0827e8f9e11207193a5a34f6b0.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3905/14f266b0b4f4ea74eebc7244bc6dedd5.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3905\14f266b0b4f4ea74eebc7244bc6dedd5.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3905/3232d237221eff9d2e693b2760df3cb1.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3905\3232d237221eff9d2e693b2760df3cb1.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3905/9058770d7051a6768f6c42ee441765fa.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3905\9058770d7051a6768f6c42ee441765fa.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3905/fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3905\fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3907/14f266b0b4f4ea74eebc7244bc6dedd5.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3907\14f266b0b4f4ea74eebc7244bc6dedd5.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3907/fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3907\fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3909/14f266b0b4f4ea74eebc7244bc6dedd5.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3909\14f266b0b4f4ea74eebc7244bc6dedd5.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_3909/fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\WIDGET_CSS\production_3909\fa6a2c1bd49b4cd1ffdf9f88e11c8fcf.css
+Content Type: text/css
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/1023589670-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\1023589670-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/1023589670-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\1023589670-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/1054012072-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\1054012072-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/1054012072-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\1054012072-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1094143212-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1094143212-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1094143212-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1094143212-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1135661328-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1135661328-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1135661328-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1135661328-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1155488047-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1155488047-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1155488047-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1155488047-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1170676866-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1170676866-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1170676866-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1170676866-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1208526811-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1208526811-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-1208526811-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1208526811-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-888249710-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-888249710-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/GettyImages-888249710-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-888249710-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/kv1-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\kv1-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/phone-icon-1920w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\phone-icon-1920w.png
+Content Type: image/png
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/row-bg-1920w.JPG
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\row-bg-1920w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/row-bg-2880w.JPG
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\row-bg-2880w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/testimonials-img-bg-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\testimonials-img-bg-1920w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp-cdn.multiscreensite.com/397c96d6/dms3rep/multi/opt/testimonials-img-bg-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\testimonials-img-bg-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/1054012072-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\1054012072-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/179019578-400w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\179019578-400w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/auto-accident-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\auto-accident-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/bankruptcy1-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\bankruptcy1-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/close-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\close-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/collection-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\collection-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/divorce-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\divorce-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/DUI-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\DUI-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/estate-planning-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\estate-planning-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1094143212-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1094143212-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1135661328-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1135661328-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1160045956-480w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1160045956-480w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1170676866-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1170676866-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1177426257-480w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1177426257-480w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1186364384-480w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1186364384-480w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1208526811-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1208526811-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-1217187760-480w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-1217187760-480w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-617382990-480w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-617382990-480w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/GettyImages-888249710-2880w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\GettyImages-888249710-2880w-1.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/real-estate-icon-240w.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\real-estate-icon-240w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/row-bg-2880w.JPG
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\row-bg-2880w-1.JPG
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/397c96d6/dms3rep/multi/opt/testimonials-img-bg-1920w.jpg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\397c96d6\dms3rep\multi\opt\testimonials-img-bg-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://s3.amazonaws.com/dudamobile-themes/Icons/searchBtn.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\dudamobile-themes\Icons\searchBtn.png
+Content Type: image/png
+
+Uri: https://static.cdn-website.com/fonts/dm-common-icons.svg?5f0fg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cdn-website.com/fonts/dm-common-icons.ttf?5f0fg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.cdn-website.com/fonts/dm-common-icons.woff?5f0fg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/dm-font.ttf?v=12
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-font.ttf
+Content Type: application/font-sfnt
+
+Uri: https://static.cdn-website.com/fonts/dm-font.woff?v=12
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-font.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/dm-social-font.ttf?mxo7pn
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-social-font.ttf
+Content Type: application/font-sfnt
+
+Uri: https://static.cdn-website.com/fonts/dm-social-font.woff?mxo7pn
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-social-font.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/DudaSansVF.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\DudaSansVF.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/DudaSansVF.woff2
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\DudaSansVF.woff2
+Content Type: application/octet-stream
+
+Uri: https://static.cdn-website.com/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\flexslider-icon.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.eot?v=6
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.svg
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.ttf?v=6
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.woff?v=6
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.svg?v=xtwitter
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.ttf?v=xtwitter
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.ttf
+Content Type: font/ttf
+
+Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.woff?v=xtwitter
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/3905/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3905\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/3905/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3905\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/3907/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3907\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/3907/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3907\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/3909/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3909\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/3909/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3909\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://www.davidjacklaw.com/
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\index.htm
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/auto-accidents
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\auto-accidents.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/bankruptcy-law
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\bankruptcy-law.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/business-law
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\business-law.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/collections
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\collections.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/contact-us
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\contact-us.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/criminal-and-dui
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\criminal-and-dui.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/david-c-jack
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\david-c-jack.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/divorce
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\divorce.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/estate-planning
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\estate-planning.html
+Content Type: text/html
+
+Uri: https://www.davidjacklaw.com/foreclosures-and-repossessions
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\foreclosures-and-repossessions.html
+Content Type: text/html
+
