@@ -1,17 +1,17 @@
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/cash.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\cash.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/cash.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\cash.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/discover.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\discover.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/discover.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\discover.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/mastercard.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\mastercard.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/mastercard.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\mastercard.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/visa.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\visa.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/visa.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\visa.png
 Content Type: image/png
 
 Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b1.woff
@@ -1387,6 +1387,24 @@ File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3909\_dm
 Content Type: text/css
 
 Uri: https://static.cdn-website.com/libs/3909/scripts/d-js-one-runtime-unified-desktop.min.js
+=======
+Uri: https://static.cdn-website.com/libs/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3905\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/libs/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3907\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/libs/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3907\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/libs/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3909\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/libs/d-js-one-runtime-unified-desktop.min.js
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\mnlt\production\3909\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
 Content Type: application/javascript
 
