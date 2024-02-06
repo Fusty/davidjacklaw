@@ -1,17 +1,17 @@
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/cash.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\cash.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/cash.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\cash.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/discover.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\discover.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/discover.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\discover.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/mastercard.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\mastercard.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/mastercard.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\mastercard.png
 Content Type: image/png
 
-Uri: https://cdn.website.thryv.com/resellers-preview/_widget_builder_files/visa.png
-File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\_widget_builder_files\visa.png
+Uri: https://cdn.website.thryv.com/resellers-preview/widget_builder_files/visa.png
+File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\resellers-preview\widget_builder_files\visa.png
 Content Type: image/png
 
 Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b1.woff
