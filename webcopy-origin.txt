@@ -1290,75 +1290,75 @@ Uri: https://s3.amazonaws.com/dudamobile-themes/Icons/searchBtn.png
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\dudamobile-themes\Icons\searchBtn.png
 Content Type: image/png
 
-Uri: https://static.cdn-website.com/fonts/dm-common-icons.svg?5f0fg
+Uri: fonts/dm-common-icons.svg?5f0fg
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.svg
 Content Type: image/svg+xml
 
-Uri: https://static.cdn-website.com/fonts/dm-common-icons.ttf?5f0fg
+Uri: fonts/dm-common-icons.ttf?5f0fg
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.ttf
 Content Type: application/octet-stream
 
-Uri: https://static.cdn-website.com/fonts/dm-common-icons.woff?5f0fg
+Uri: fonts/dm-common-icons.woff?5f0fg
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-common-icons.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/dm-font.ttf?v=12
+Uri: fonts/dm-font.ttf?v=12
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-font.ttf
 Content Type: application/font-sfnt
 
-Uri: https://static.cdn-website.com/fonts/dm-font.woff?v=12
+Uri: fonts/dm-font.woff?v=12
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-font.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/dm-social-font.ttf?mxo7pn
+Uri: fonts/dm-social-font.ttf?mxo7pn
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-social-font.ttf
 Content Type: application/font-sfnt
 
-Uri: https://static.cdn-website.com/fonts/dm-social-font.woff?mxo7pn
+Uri: fonts/dm-social-font.woff?mxo7pn
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\dm-social-font.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/DudaSansVF.woff
+Uri: fonts/DudaSansVF.woff
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\DudaSansVF.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/DudaSansVF.woff2
+Uri: fonts/DudaSansVF.woff2
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\DudaSansVF.woff2
 Content Type: application/octet-stream
 
-Uri: https://static.cdn-website.com/fonts/flexslider-icon.woff
+Uri: fonts/flexslider-icon.woff
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\flexslider-icon.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.eot?
+Uri: fonts/fontawesome-webfont.eot?
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont-1.eot
 Content Type: application/octet-stream
 
-Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.eot?v=6
+Uri: fonts/fontawesome-webfont.eot?v=6
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.eot
 Content Type: application/octet-stream
 
-Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.svg
+Uri: fonts/fontawesome-webfont.svg
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.svg
 Content Type: image/svg+xml
 
-Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.ttf?v=6
+Uri: fonts/fontawesome-webfont.ttf?v=6
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.ttf
 Content Type: application/octet-stream
 
-Uri: https://static.cdn-website.com/fonts/fontawesome-webfont.woff?v=6
+Uri: fonts/fontawesome-webfont.woff?v=6
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\fontawesome-webfont.woff
 Content Type: application/font-woff
 
-Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.svg?v=xtwitter
+Uri: fonts/social_icons/dm-social-icons.svg?v=xtwitter
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.svg
 Content Type: image/svg+xml
 
-Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.ttf?v=xtwitter
+Uri: fonts/social_icons/dm-social-icons.ttf?v=xtwitter
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.ttf
 Content Type: font/ttf
 
-Uri: https://static.cdn-website.com/fonts/social_icons/dm-social-icons.woff?v=xtwitter
+Uri: fonts/social_icons/dm-social-icons.woff?v=xtwitter
 File Name: C:\Downloaded Web Sites\www.davidjacklaw.com\fonts\social_icons\dm-social-icons.woff
 Content Type: application/font-woff
 
