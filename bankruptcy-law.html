@@ -2211,10 +2211,6 @@ $(document).ready(function() {
     //if site has an external ID set, load floating widgets
     if (_extID) {
         window.liveSiteAsyncInit = function() {
-            LiveSite.init({
-                id: _extID,
-                mode: _device
-            });
         };
         (function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0],
